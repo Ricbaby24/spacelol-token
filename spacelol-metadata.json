@@ -1,7 +1,18 @@
 {
-    "name": "Spacelol",
-    "symbol": "SPLOL",
-    "decimals": 9,
-    "image": "https://files.chatgpt.com/file-1tbpc6LMF75cJ7epkz3yOoyv?space=2024-spacelol",
-    "description": "Spacelol ($SPLOL) is a meme-powered token taking laughter and degens to the moon. \ud83d\ude80\ud83e\udd23"
+  "name": "Spacelol",
+  "symbol": "SPLOL",
+  "description": "Spacelol ($SPLOL) is a meme-powered token taking laughter and degens to the moon.",
+  "image": "https://raw.githubusercontent.com/Ricbaby24/spacelol-assets/main/spacelol.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Ricbaby24/spacelol-assets/main/spacelol.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
 }
